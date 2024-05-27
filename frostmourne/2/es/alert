@@ -1,10 +1,9 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">Test Alert!</h1>
+        <h1 align="center">¡Bienvenido a Frostmourne!</h1>
         <p>
-            Test 2 ES
+            ¡Actualmente estamos en beta, y el lanzamiento está programado para el 31 de mayo a las 20:00 hora central europea! Si ves esto, significa que tienes nuestro último parche. ¡Gracias!
         </p>
     </body>
 </html>
-
