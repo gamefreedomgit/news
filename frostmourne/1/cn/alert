@@ -1,12 +1,17 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">28:OUTDATED CLIENT!</h1>
-        <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
-        <br/><br/>
+        <h1 align="center">|cffff0000!! 客户端过期 !!|r</h1>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
+        <p align="center">|cffff0000警告：您的游戏客户端已过期|r</p>
+        <br/>
         <p>
-            On 28th May, there was a client update. <br />
-            Please download it here: <a href="https://whitemane.org/patch">[CLICK HERE]</a>
+            5月28日有一个|cffff0000客户端更新|r，修复了各种错误。<br />
+            请在这里下载：<a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Chinese-v2.zip">点击这里</a><br />
+            完成后，只需将其复制到游戏文件夹中，并替换所有提示替换的文件。<br /><br />
+            如果您有任何问题，请在我们的<a href="https://discord.gg/whitemane">Discord</a>上联系我们！
         </p>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
+        <h1 align="center"><a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Chinese-v2.zip">下载补丁</a>|r</h1>
     </body>
 </html>
