@@ -1,9 +1,17 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">Добро пожаловать в Frostmourne!</h1>
+        <h1 align="center">|cffff0000!! Устаревший клиент !!|r</h1>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
+        <p align="center">|cffff0000ПРЕДУПРЕЖДЕНИЕ: Ваш игровой клиент устарел|r</p>
+        <br/>
         <p>
-            Мы находимся в стадии бета-тестирования, а выпуск запланирован на 31 мая, 20:00 по центральноевропейскому времени! Если вы видите это сообщение, значит, у вас установлена наша последняя версия патча. Спасибо!
+            28 мая вышло |cffff0000обновление клиента|r, которое исправляет различные ошибки. <br />
+            Пожалуйста, скачайте его здесь: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Russian-v2.zip">НАЖМИТЕ ЗДЕСЬ</a><br />
+            После этого просто скопируйте его в папку с игрой и замените все файлы, которые потребуется заменить.<br /><br />
+            Если у вас есть вопросы или проблемы, обратитесь к нам на нашем <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
+        <h1 align="center"><a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Russian-v2.zip">СКАЧАТЬ ПАТЧ</a>|r</h1>
     </body>
 </html>
