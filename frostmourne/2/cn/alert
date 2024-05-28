@@ -1,17 +1,9 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">|cffff0000!! Outdated Client !!|r</h1>
-        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
-        <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
-        <br/>
+        <h1 align="center">欢迎来到Frostmourne!</h1>
         <p>
-            On 28th May, there was a |cffff0000client update|r that fixes various bugs. <br />
-            Please download it here: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">CLICK HERE</a><br />
-            After you do, simply copy it to your game folder and replace all files it asks you to replace.<br /><br />
-            If you have issues or problems, ask us on our <a href="https://discord.gg/whitemane">Discord</a>!
+            我们目前处于测试阶段，发布日期定于5月31日，欧洲中部时间20:00！如果你看到这个消息，说明你已经安装了我们的最新补丁。谢谢！
         </p>
-        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
-        <h1 align="center"><a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">DOWNLOAD PATCH</a>|r</h1>
     </body>
 </html>
