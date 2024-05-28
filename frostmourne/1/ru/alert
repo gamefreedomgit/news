@@ -8,7 +8,7 @@ SERVERALERT:
         <p>
             28 мая вышло |cffff0000обновление клиента|r, которое исправляет различные ошибки. <br />
             Пожалуйста, скачайте его здесь: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Russian-v2.zip">НАЖМИТЕ ЗДЕСЬ</a><br />
-            После этого просто скопируйте его в папку с игрой и замените все файлы, которые потребуется заменить.<br /><br />
+            После этого просто распакуйте ZIP-файл и скопируйте его в папку с игрой, заменив все файлы, которые потребуется заменить.<br /><br />
             Если у вас есть вопросы или проблемы, обратитесь к нам на нашем <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
         <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
