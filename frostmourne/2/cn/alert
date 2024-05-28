@@ -1,9 +1,9 @@
 SERVERALERT:
 <html>
-    <body>
-        <h1 align="center">欢迎来到Frostmourne!</h1>
-        <p>
-            28.05: 我们目前处于测试阶段，发布日期定于5月31日，欧洲中部时间20:00！如果你看到这个消息，说明你已经安装了我们的最新补丁。谢谢！
-        </p>
-    </body>
-</html>
+<body>
+<h1>OUTDATED CLIENT!</h1>
+<p align="center">|cffff0000WARNING: Your Game Client is Out fo Date|r</p>
+<br/><br/>
+<p>On 28th May, there was a client update. <br />Please download it <a href="https://whitemane.org/patch">HERE</a>
+</p>
+</body></html>
