@@ -1,9 +1,17 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">¡Bienvenido a Frostmourne!</h1>
+        <h1 align="center">|cffff0000!! Cliente Desactualizado !!|r</h1>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
+        <p align="center">|cffff0000ADVERTENCIA: Tu cliente de juego está desactualizado|r</p>
+        <br/>
         <p>
-            ¡Actualmente estamos en beta, y el lanzamiento está programado para el 31 de mayo a las 20:00 hora central europea! Si ves esto, significa que tienes nuestro último parche. ¡Gracias!
+            El 28 de mayo hubo una |cffff0000actualización del cliente|r que soluciona varios errores. <br />
+            Por favor descárgala aquí: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Spanish-v2.zip">HAZ CLIC AQUÍ</a><br />
+            Después de hacerlo, simplemente copia los archivos en la carpeta de tu juego y reemplaza todos los archivos que te pida reemplazar.<br /><br />
+            Si tienes problemas o dudas, pregúntanos en nuestro <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
+        <h1 align="center"><a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Spanish-v2.zip">DESCARGAR PARCHE</a>|r</h1>
     </body>
 </html>
