@@ -7,7 +7,7 @@ SERVERALERT:
         <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
         <br/>
         <p>
-            On 28th May, there was a |cffff0000client update|r that fixes various bugs. <br />
+          <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew">  On 28th May, there was a |cffff0000client update|r that fixes various bugs. <br />
             Please download it here: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">CLICK HERE</a><br />
             After you do, simply copy it to your game folder and replace all files it asks you to replace.<br /><br />
             If you have issues or problems, ask us on our <a href="https://discord.gg/whitemane">Discord</a>!
