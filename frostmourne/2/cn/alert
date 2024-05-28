@@ -1,8 +1,8 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="left">|cffff0000!! Outdated Client !!|r</h1>
-        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
+        <h1 align="center">|cffff0000!! Outdated Client !!|r</h1>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="64" height="64" align="center"/>
         <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
         <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
         <br/>
@@ -12,9 +12,7 @@ SERVERALERT:
             After you do, simply copy it to your game folder and replace all files it asks you to replace.<br /><br />
           <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="left"/>  If you have issues or problems, ask us on our <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
-        <h1 align="center">|cffff0000<a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">CLICK HERE</a>h1|r</h1>
-        <h2 align="center">|cffff0000<a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">CLICK HERE</a>h2|r</h2>
-        <h3 align="center">|cffff0000<a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">CLICK HERE</a>h3|r</h3>
-
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="64" height="64" align="center"/>
+        <h1 align="center"><a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-English-v2.zip">DOWNLOAD PATCH</a>h1|r</h1>
     </body>
 </html>
