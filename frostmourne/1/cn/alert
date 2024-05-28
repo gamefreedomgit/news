@@ -8,7 +8,7 @@ SERVERALERT:
         <p>
             5月28日有一个|cffff0000客户端更新|r，修复了各种错误。<br />
             请在这里下载：<a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Chinese-v2.zip">点击这里</a><br />
-            完成后，只需将其复制到游戏文件夹中，并替换所有提示替换的文件。<br /><br />
+            完成后，简单解压缩 ZIP 文件并将其复制到你的游戏文件夹中，替换所有要求你替换的文件。<br /><br />
             如果您有任何问题，请在我们的<a href="https://discord.gg/whitemane">Discord</a>上联系我们！
         </p>
         <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
