@@ -1,7 +1,7 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="left">OUTDATED CLIENT!</h1>
+        <h1 align="left">|cffff0000WARNING: Outdated Client|r</h1>
         <img src="Interface\Icons\trade_engineering" width="32" height="32" align="center"/>
         <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
         <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
