@@ -1,9 +1,12 @@
 SERVERALERT:
 <html>
-<body>
-<h1>OUTDATED CLIENT!</h1>
-<p align="center">|cffff0000WARNING: Your Game Client is Out fo Date|r</p>
-<br/><br/>
-<p>On 28th May, there was a client update. <br />Please download it <a href="https://whitemane.org/patch">HERE</a>
-</p>
-</body></html>
+    <body>
+        <h1 align="center">28:OUTDATED CLIENT!</h1>
+        <p align="center">|cffff0000WARNING: Your Game Client is Out of Date|r</p>
+        <br/><br/>
+        <p>
+            On 28th May, there was a client update. <br />
+            Please download it here: <a href="https://whitemane.org/patch">[CLICK HERE]</a>
+        </p>
+    </body>
+</html>
