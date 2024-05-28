@@ -8,7 +8,7 @@ SERVERALERT:
         <p>
             El 28 de mayo hubo una |cffff0000actualización del cliente|r que soluciona varios errores. <br />
             Por favor descárgala aquí: <a href="https://cdn3.bootybay.org/WotLK/Whitemane-WotLK-Patch-Spanish-v2.zip">HAZ CLIC AQUÍ</a><br />
-            Después de hacerlo, simplemente copia los archivos en la carpeta de tu juego y reemplaza todos los archivos que te pida reemplazar.<br /><br />
+            Después de hacerlo, simplemente descomprime el archivo ZIP y cópialo en la carpeta de tu juego y reemplaza todos los archivos que te pida reemplazar.<br /><br />
             Si tienes problemas o dudas, pregúntanos en nuestro <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
         <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
