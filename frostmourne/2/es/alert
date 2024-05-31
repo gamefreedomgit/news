@@ -1,9 +1,10 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">¡Bienvenido a Frostmourne!</h1>
+        <h1 align="center">¡Frostmourne está en línea!</h1>
         <p>
-             28.05:¡Actualmente estamos en beta, y el lanzamiento está programado para el 31 de mayo a las 20:00 hora central europea! Si ves esto, significa que tienes nuestro último parche. ¡Gracias!
+            Actualizado: 31 de mayo de 2024, 21:37<br />
+            El reino se ha lanzado y alcanza un pico de 5000 jugadores en línea. Whitemane+ aún no está disponible hasta que se logren los primeros logros del reino. <br /> Si ves esto, significa que tienes nuestro último parche. ¡Gracias!
         </p>
     </body>
 </html>
