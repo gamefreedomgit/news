@@ -1,10 +1,21 @@
 SERVERALERT:
 <html>
     <body>
-        <h1 align="center">Frostmourne上线了！</h1>
+<p align="left">|cffffc7002024年6月6日 (14:05 CEST)|r</p>
+<img src="Interface\Icons\INV_WM_WMPlus" width="32" height="32" align="left"/>
+        <h1 align="center">|cffFF8000Whitemane+|r 已上线！</h1><br />
         <p>
-            更新：2024年5月31日，21:37<br /><br />
-            服务器已经启动，在线玩家数峰值达5000人。Whitemane+尚未开放，直到服务器首杀成就达成。<br /><br /> 如果你看到这个消息，意味着你已安装我们的最新补丁。谢谢！
+    Whitemane+ 现已上线，享受所有福利，包括免费幻化、 
+    传送、即时飞行、无复活虚弱、不可摧毁物品等。
+<br /><br />
+    获得 Whitemane+ 后，你会在邮箱中收到 |cffa335ee[血色宝典]|r。 
+    你可以用它来访问传送和冬握湖排队！
+<br /><br />
+    商店也已开放，提供经验药水、幻化套装、坐骑等商品！
+<br /><br />
+    |cff00FAF6获取|r |cffFF8000Whitemane+|r |cff00FAF6并点击|r <a href="https://playerid.me/">这里</a>访问商店！
+<br /><br /> 
+    如果你看到此信息，说明你已安装我们的最新补丁。谢谢！
         </p>
     </body>
 </html>
