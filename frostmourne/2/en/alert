@@ -1,21 +1,15 @@
 SERVERALERT:
 <html>
     <body>
-<p align="left">|cffffc7006th June, 2024 (14:05 CEST)|r</p>
-<img src="Interface\Icons\INV_WM_WMPlus" width="32" height="32" align="left"/>
-        <h1 align="center">|cffFF8000Whitemane+|r is available!</h1><br />
+<p align="left">|cffffc70014th June, 2024 (20:00 CEST)|r</p>
+<img src="Interface\Icons\achievement_dungeon_naxxramas_10man" width="32" height="32" align="left"/>
+        <h1 align="center">Tier 7 and Deadly Gladiator are live!</h1><br />
         <p>
-    Whitemane+ with all its benefits, such as free Transmogrification, 
-    Teleports, Instant Flying, No Resurrection Sickness, Indestructible Items, and more, 
-    is now available!
+    The first content of Frostmourne is now available! Explore the haunted halls of Naxxramas,
+    the fiery rivers of the Obsidian Sanctum, the mysterious Eye of Eternity, and timewalk in Sunwell Plateau!
 <br /><br />
-    When you get it, you will receive |cffa335ee[Scarlet Compendium]|r in your mailbox. 
-    You can use it to access your teleports and Wintergrasp queue!
+   |cff00FAF6New!|r Timewalking and Ascended modes are available! To enable them, switch to 25-Heroic (for Timewalking) and 10-Heroic (for Ascended)!
 <br /><br />
-    The store is also available, offering Experience elixirs, transmogrification sets, mounts, and more!
-<br /><br />
-    |cff00FAF6Get|r |cffFF8000Whitemane+|r |cff00FAF6and visit the store by clicking|r <a href="https://playerid.me/">here!</a>
-<br /><br /> 
     If you see this, that means you have our latest patch. Thank you!
         </p>
     </body>
