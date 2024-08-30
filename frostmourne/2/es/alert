@@ -1,22 +1,17 @@
 SERVERALERT:
 <html>
     <body>
-<p align="left">|cffffc7006 de junio de 2024 (14:05 CEST)|r</p>
-<img src="Interface\Icons\INV_WM_WMPlus" width="32" height="32" align="left"/>
-        <h1 align="center">¡|cffFF8000Whitemane+|r está disponible!</h1><br />
+        <h1 align="center">|cffff0000!! Cliente Desactualizado !!|r</h1>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertNew" width="32" height="32" align="center"/>
+        <p align="center">|cffff0000ADVERTENCIA: Tu cliente de juego está desactualizado|r</p>
+        <br/>
         <p>
-    ¡Whitemane+ con todos sus beneficios, como Transfiguración gratuita, 
-    Teletransportes, Vuelo instantáneo, Sin enfermedad de resurrección, Objetos indestructibles y más, 
-    ya está disponible!
-<br /><br />
-    Cuando lo consigas, recibirás |cffa335ee[Compendio Escarlata]|r en tu buzón. 
-    ¡Puedes usarlo para acceder a tus teletransportes y a la cola de Conquista del Invierno!
-<br /><br />
-    ¡La tienda también está disponible, ofreciendo elixires de experiencia, conjuntos de transfiguración, monturas y más!
-<br /><br />
-    |cff00FAF6Obtén|r |cffFF8000Whitemane+|r |cff00FAF6y visita la tienda haciendo clic|r <a href="https://playerid.me/">¡aquí!</a>
-<br /><br /> 
-    ¡Si ves esto, significa que tienes nuestro parche más reciente. ¡Gracias!
+            El 28 de mayo hubo una |cffff0000actualización del cliente|r que soluciona varios errores. <br />
+            Por favor descárgala aquí: <a href="https://whitemane.org/patch-es">HAZ CLIC AQUÍ</a><br />
+            Después de hacerlo, simplemente descomprime el archivo ZIP y cópialo en la carpeta de tu juego y reemplaza todos los archivos que te pida reemplazar.<br /><br />
+            Si tienes problemas o dudas, pregúntanos en nuestro <a href="https://discord.gg/whitemane">Discord</a>!
         </p>
+        <img src="Interface\DialogFrame\UI-Dialog-Icon-AlertOther" width="32" height="32" align="center"/>
+        <h1 align="center"><a href="https://whitemane.org/patch-es">DESCARGAR PARCHE</a>|r</h1>
     </body>
 </html>
